@@ -1,3 +1,5 @@
 ./MyNotes/day2-Tue/seminar-03-keras-cnn/cifar_data/cifar-10-python.tar.gz
 .ipynb_checkpoints
 *.log
+.DS_Store
+
